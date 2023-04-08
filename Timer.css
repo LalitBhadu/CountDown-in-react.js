@@ -1,0 +1,14 @@
+.timer {
+  background-color: rgb(red, green, blue);
+}
+.h1 {
+  background-color: red;
+}
+.logo {
+  height: 0px;
+  width: 0px;
+  color: rgb(255, 255, 255);
+  margin: 2px;
+  padding: 2px;
+  margin-left: 10px;
+}
